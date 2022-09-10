@@ -1,5 +1,5 @@
 
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/002/141/073/original/solar-system-in-the-galaxy-with-an-astronaut-and-a-rocket-ship-free-vector.jpg)](https://vamsi3856.io)
+
 <h1 align="center">Hi 👋, I'm MUPPURI VENKATESWARA VAMSI KUMAR</h1>
 <h3 align="center">Coding❤️ | Developing🎓</h3>
 
