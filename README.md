@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Django & Python**
 
 - 👨‍💻 My Portfolio 🔗[https://vamsi3856.github.io/vamsi3856-2.github.io/](https://vamsi3856.github.io/vamsi3856-2.github.io/) made with ❤️
-- ✌️ My Projects **Visit my Profile**💚⬇️
+- ✌️ My Projects **Visit Below Repositories**💚⬇️
 
 - 💬 Ask me about **Coding,Developing**
 
