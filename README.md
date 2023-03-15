@@ -9,9 +9,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsi3856&label=Profile%20views&color=0e75b6&style=flat" alt="vamsi3856" /> </p>
 
 
-- 🔭 I’m currently working on **Django Framework**
+- 🔭 I’m currently working on **Django & Flask**
 
-- 🌱 I’m currently learning **Django & Python**
+- 🌱 I’m currently learning **Django & Flask**
 
 - 👨‍💻 My Portfolio 🔗[https://vamsi3856.github.io/vamsi3856-2.github.io/](https://vamsi3856.github.io/vamsi3856-2.github.io/) made with ❤️
 - ✌️ My Projects **Visit Below Repositories**💚⬇️
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **vamsikumar487@gmail.com**
 
-- 📄 Know about my experiences 🔗[https://drive.google.com/file/d/1XEIacP_74k06-5zdko41hQ--sf3-6sMR/view?usp=sharing](https://drive.google.com/file/d/1XEIacP_74k06-5zdko41hQ--sf3-6sMR/view?usp=sharing)
+- 📄 Know about my experiences 🔗[https://drive.google.com/file/d/10mMPuxwVm1JxoTkfP99TeKtJ2416-BiE/view?usp=share_link](https://drive.google.com/file/d/10mMPuxwVm1JxoTkfP99TeKtJ2416-BiE/view?usp=share_link)
 
 - ⚡ Fun fact **I'm Innocent😜**
 
