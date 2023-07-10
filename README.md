@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm MUPPURI VENKATESWARA VAMSI KUMAR</h1>
-<h3 align="center">Coding❤️ | Developing🎓</h3>
+<h3 align="center">Python developer🎓</h3>
 
 
 <img align="right" alt="Coding" width="300" src="https://media.istockphoto.com/vectors/programming-design-concept-vector-id947663966?k=20&m=947663966&s=612x612&w=0&h=JUMJJkuDL6c9vReaJVL3Y4pDvJtqMzSVVYiJ6CSE-8A=">
@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently working on **Django & Flask**
 
-- 🌱 I’m currently learning **Django & Flask**
 
 - 👨‍💻 My Portfolio 🔗[https://vamsi3856.github.io/vamsi3856-2.github.io/](https://vamsi3856.github.io/vamsi3856-2.github.io/) made with ❤️
 - ✌️ My Projects **Visit Below Repositories**💚⬇️
