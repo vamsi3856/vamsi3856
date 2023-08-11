@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vamsikumar487@gmail.com**
 
-- 📄 Know about my experiences 🔗[https://drive.google.com/file/d/10mMPuxwVm1JxoTkfP99TeKtJ2416-BiE/view?usp=share_link](https://drive.google.com/file/d/10mMPuxwVm1JxoTkfP99TeKtJ2416-BiE/view?usp=share_link)
+- 📄 Know about my experiences 🔗[Resume](https://drive.google.com/file/d/1aBgyCUu5Ch7LC8uWM4GIJUX3iGtt6mdi/view)
 
 - ⚡ Fun fact **I'm Innocent😜**
 
